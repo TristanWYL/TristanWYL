@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, this is Tristan 👋
+
+
+- 🔭 I’m a frontend-focused full-stack engineer
+- 👯 I’m looking to collaborate on promising open source projects
+- 📫 How to reach me: tristan_wyl@hotmail.com
+
+---
+![Profile views](https://gpvc.arturio.dev/TristanWYL)
 
 <!--
 **TristanWYL/TristanWYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
