@@ -1,12 +1,13 @@
 ### Hi there, this is Tristan 👋
-
-
 - 🔭 I’m a frontend-focused full-stack engineer
 - 👯 I’m looking to collaborate on promising open source projects
 - 📫 How to reach me: tristan_wyl@hotmail.com
-
+---
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=TristanWYL&show_icons=true&include_all_commits=true&count_private=true&theme=dark&icon_color=79ff97" alt="Tristan's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanWYL&layout=compact&theme=dark" />|
+| ------------- | ------------- |
 ---
 ![Profile views](https://gpvc.arturio.dev/TristanWYL)
+
 
 <!--
 **TristanWYL/TristanWYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
